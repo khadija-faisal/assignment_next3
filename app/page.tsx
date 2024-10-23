@@ -1,6 +1,6 @@
 import Footer from "./components/reusable/footer";
 import HeroSection from "./components/hero";
-import Header from "./components/reusable/header";
+
 import AboutPage from "./components/about";
 export default function Home() {
   return (
