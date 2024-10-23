@@ -1,6 +1,4 @@
-import Image from "next/image";
 
-import Footer from "./reusable/footer";
 export default function AboutPage() {
   return (
     <main
