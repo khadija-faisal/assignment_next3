@@ -14,7 +14,7 @@ export default function HeroSection() {
               <h1 className=" text-7xl lg:text-8xl font-bold ">
                 Galaxy of Horrors
               </h1>
-              <p className="text-lg">
+              <p className="text-lg mb-14">
                 Take a tour of some of the most terrifying and mind-blowing
                 destinations in our galaxy … and beyond. After a visit to these
                 nightmare worlds, you may never want to leave Earth again! You

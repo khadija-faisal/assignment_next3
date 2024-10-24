@@ -2,12 +2,12 @@
 export default function AboutPage() {
   return (
     <main
-      className="flex flex-col w-full h-full bg-cover bg-center flex-wrap"
-      style={{ backgroundImage: "url(/one.webp)" }}
+      className="flex flex-col bg-[url('/one.webp')] w-full h-full bg-cover bg-center flex-wrap "
+      // style={{ backgroundImage: "url(/one.webp)" }}
     >
       <div className="w-full h-full justify-center items-center flex bg-black/50">
         <div className=" text-white flex flex-col justify-center items-center gap-3  pt-4  w-2/3 lg:w-2/4">
-          <h2 className="  pt-4 text-5xl lg:text-7xl text-center  font-bold ">
+          <h2 className=" mt-7 text-4xl lg:text-7xl text-center  font-bold ">
             About Galaxy of Horrors
           </h2>
           <p className="lg:text-xl text-center">
