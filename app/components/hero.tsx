@@ -5,8 +5,8 @@ export default function HeroSection() {
     <>
       <Header></Header>
       <div
-        className=" text-white  w-full h-full bg-center bg-cover "
-        style={{ backgroundImage: "url(/back.jpg)" }}
+        className=" bg-[url('/back.jpg')] text-white  w-full h-full bg-center bg-cover "
+        // style={{ backgroundImage: "url(/back.jpg)" }}
       >
         <div className="w-full h-full  bg-black/50">
           <main className=" flex items-center w-full h-full">
